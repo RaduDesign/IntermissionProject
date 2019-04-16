@@ -1,0 +1,1070 @@
+﻿Log file open, 04/16/19 14:10:08
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: MobileProject
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.407189
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.064s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4753647
+LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: E:/Program Files (x86)/UE4/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.04.16-12.10.08:251][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.04.16-12.10.08:251][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.04.16-12.10.08:251][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [E:/Games/Repository/IntermissionProject/MobileProject/Saved/Config/Windows/Engine.ini]
+[2019.04.16-12.10.08:251][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.04.16-12.10.08:251][  0]LogConfig: Setting CVar [[r.MobileHDR:0]]
+[2019.04.16-12.10.08:251][  0]LogConfig: Setting CVar [[r.Mobile.DisableVertexFog:1]]
+[2019.04.16-12.10.08:251][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxMobileCascades:2]]
+[2019.04.16-12.10.08:251][  0]LogConfig: Setting CVar [[r.MobileMSAA:1]]
+[2019.04.16-12.10.08:251][  0]LogConfig: Setting CVar [[r.Mobile.UseLegacyShadingModel:0]]
+[2019.04.16-12.10.08:251][  0]LogConfig: Setting CVar [[r.Mobile.AllowDitheredLODTransition:0]]
+[2019.04.16-12.10.08:251][  0]LogConfig: Setting CVar [[r.Mobile.AllowSoftwareOcclusion:0]]
+[2019.04.16-12.10.08:251][  0]LogConfig: Setting CVar [[r.DiscardUnusedQuality:0]]
+[2019.04.16-12.10.08:251][  0]LogConfig: Setting CVar [[r.AllowOcclusionQueries:1]]
+[2019.04.16-12.10.08:251][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForLights:0.030000]]
+[2019.04.16-12.10.08:251][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForDepthPrepass:0.030000]]
+[2019.04.16-12.10.08:251][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForCSMDepth:0.010000]]
+[2019.04.16-12.10.08:251][  0]LogConfig: Setting CVar [[r.PrecomputedVisibilityWarning:0]]
+[2019.04.16-12.10.08:251][  0]LogConfig: Setting CVar [[r.TextureStreaming:1]]
+[2019.04.16-12.10.08:251][  0]LogConfig: Setting CVar [[Compat.UseDXT5NormalMaps:0]]
+[2019.04.16-12.10.08:251][  0]LogConfig: Setting CVar [[r.ClearCoatNormal:0]]
+[2019.04.16-12.10.08:251][  0]LogConfig: Setting CVar [[r.ReflectionCaptureResolution:128]]
+[2019.04.16-12.10.08:251][  0]LogConfig: Setting CVar [[r.ReflectionEnvironmentLightmapMixBasedOnRoughness:1]]
+[2019.04.16-12.10.08:251][  0]LogConfig: Setting CVar [[r.ForwardShading:0]]
+[2019.04.16-12.10.08:251][  0]LogConfig: Setting CVar [[r.VertexFoggingForOpaque:1]]
+[2019.04.16-12.10.08:251][  0]LogConfig: Setting CVar [[r.AllowStaticLighting:1]]
+[2019.04.16-12.10.08:251][  0]LogConfig: Setting CVar [[r.NormalMapsForStaticLighting:0]]
+[2019.04.16-12.10.08:251][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:0]]
+[2019.04.16-12.10.08:251][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.EightBit:0]]
+[2019.04.16-12.10.08:251][  0]LogConfig: Setting CVar [[r.GenerateLandscapeGIData:0]]
+[2019.04.16-12.10.08:251][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.Compress:0]]
+[2019.04.16-12.10.08:252][  0]LogConfig: Setting CVar [[r.TessellationAdaptivePixelsPerTriangle:48.000000]]
+[2019.04.16-12.10.08:252][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:0]]
+[2019.04.16-12.10.08:252][  0]LogConfig: Setting CVar [[r.TranslucentSortPolicy:0]]
+[2019.04.16-12.10.08:252][  0]LogConfig: Setting CVar [[r.CustomDepth:1]]
+[2019.04.16-12.10.08:252][  0]LogConfig: Setting CVar [[r.CustomDepthTemporalAAJitter:1]]
+[2019.04.16-12.10.08:252][  0]LogConfig: Setting CVar [[r.PostProcessing.PropagateAlpha:0]]
+[2019.04.16-12.10.08:252][  0]LogConfig: Setting CVar [[r.DOF.Algorithm:1]]
+[2019.04.16-12.10.08:252][  0]LogConfig: Setting CVar [[r.DefaultFeature.Bloom:0]]
+[2019.04.16-12.10.08:252][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:0]]
+[2019.04.16-12.10.08:252][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:1]]
+[2019.04.16-12.10.08:252][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2019.04.16-12.10.08:252][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Method:0]]
+[2019.04.16-12.10.08:252][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:0]]
+[2019.04.16-12.10.08:252][  0]LogConfig: Setting CVar [[r.UsePreExposure:0]]
+[2019.04.16-12.10.08:252][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+[2019.04.16-12.10.08:252][  0]LogConfig: Setting CVar [[r.DefaultFeature.LensFlare:0]]
+[2019.04.16-12.10.08:252][  0]LogConfig: Setting CVar [[r.TemporalAA.Upsampling:0]]
+[2019.04.16-12.10.08:252][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:0]]
+[2019.04.16-12.10.08:252][  0]LogConfig: Setting CVar [[r.DefaultFeature.LightUnits:1]]
+[2019.04.16-12.10.08:252][  0]LogConfig: Setting CVar [[r.DefaultBackBufferPixelFormat:4]]
+[2019.04.16-12.10.08:252][  0]LogConfig: Setting CVar [[r.Shadow.UnbuiltPreviewInGame:1]]
+[2019.04.16-12.10.08:252][  0]LogConfig: Setting CVar [[r.StencilForLODDither:0]]
+[2019.04.16-12.10.08:252][  0]LogConfig: Setting CVar [[r.EarlyZPass:3]]
+[2019.04.16-12.10.08:252][  0]LogConfig: Setting CVar [[r.EarlyZPassMovable:1]]
+[2019.04.16-12.10.08:252][  0]LogConfig: Setting CVar [[r.EarlyZPassOnlyMaterialMasking:0]]
+[2019.04.16-12.10.08:252][  0]LogConfig: Setting CVar [[r.DBuffer:1]]
+[2019.04.16-12.10.08:252][  0]LogConfig: Setting CVar [[r.ClearSceneMethod:1]]
+[2019.04.16-12.10.08:252][  0]LogConfig: Setting CVar [[r.BasePassOutputsVelocity:0]]
+[2019.04.16-12.10.08:252][  0]LogConfig: Setting CVar [[r.SelectiveBasePassOutputs:0]]
+[2019.04.16-12.10.08:252][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeX:1024]]
+[2019.04.16-12.10.08:252][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeY:1024]]
+[2019.04.16-12.10.08:252][  0]LogConfig: Setting CVar [[r.AllowGlobalClipPlane:0]]
+[2019.04.16-12.10.08:252][  0]LogConfig: Setting CVar [[r.GBufferFormat:1]]
+[2019.04.16-12.10.08:252][  0]LogConfig: Setting CVar [[r.MorphTarget.Mode:1]]
+[2019.04.16-12.10.08:252][  0]LogConfig: Setting CVar [[vr.InstancedStereo:0]]
+[2019.04.16-12.10.08:252][  0]LogConfig: Setting CVar [[vr.MultiView:0]]
+[2019.04.16-12.10.08:252][  0]LogConfig: Setting CVar [[vr.MobileMultiView:0]]
+[2019.04.16-12.10.08:252][  0]LogConfig: Setting CVar [[vr.MobileMultiView.Direct:0]]
+[2019.04.16-12.10.08:252][  0]LogConfig: Setting CVar [[vr.MonoscopicFarField:0]]
+[2019.04.16-12.10.08:252][  0]LogConfig: Setting CVar [[vr.RoundRobinOcclusion:0]]
+[2019.04.16-12.10.08:252][  0]LogConfig: Setting CVar [[vr.ODSCapture:0]]
+[2019.04.16-12.10.08:252][  0]LogConfig: Setting CVar [[r.WireframeCullThreshold:5.000000]]
+[2019.04.16-12.10.08:252][  0]LogConfig: Setting CVar [[r.SupportStationarySkylight:1]]
+[2019.04.16-12.10.08:252][  0]LogConfig: Setting CVar [[r.SupportLowQualityLightmaps:1]]
+[2019.04.16-12.10.08:252][  0]LogConfig: Setting CVar [[r.SupportPointLightWholeSceneShadows:1]]
+[2019.04.16-12.10.08:252][  0]LogConfig: Setting CVar [[r.SupportAtmosphericFog:1]]
+[2019.04.16-12.10.08:252][  0]LogConfig: Setting CVar [[r.SkinCache.CompileShaders:0]]
+[2019.04.16-12.10.08:252][  0]LogConfig: Setting CVar [[r.Mobile.EnableStaticAndCSMShadowReceivers:1]]
+[2019.04.16-12.10.08:252][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableLightCSMShaderCulling:1]]
+[2019.04.16-12.10.08:252][  0]LogConfig: Setting CVar [[r.Mobile.AllowDistanceFieldShadows:1]]
+[2019.04.16-12.10.08:252][  0]LogConfig: Setting CVar [[r.Mobile.AllowMovableDirectionalLights:1]]
+[2019.04.16-12.10.08:252][  0]LogConfig: Setting CVar [[r.MobileNumDynamicPointLights:4]]
+[2019.04.16-12.10.08:252][  0]LogConfig: Setting CVar [[r.MobileDynamicPointLightsUseStaticBranch:1]]
+[2019.04.16-12.10.08:252][  0]LogConfig: Setting CVar [[r.SkinCache.SceneMemoryLimitInMB:128.000000]]
+[2019.04.16-12.10.08:252][  0]LogConfig: Setting CVar [[r.GPUSkin.Limit2BoneInfluences:0]]
+[2019.04.16-12.10.08:252][  0]LogConfig: Setting CVar [[r.SupportDepthOnlyIndexBuffers:1]]
+[2019.04.16-12.10.08:252][  0]LogConfig: Setting CVar [[r.SupportReversedIndexBuffers:1]]
+[2019.04.16-12.10.08:252][  0]LogConfig: Setting CVar [[r.SupportMaterialLayers:0]]
+[2019.04.16-12.10.08:252][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [E:/Games/Repository/IntermissionProject/MobileProject/Saved/Config/Windows/Engine.ini]
+[2019.04.16-12.10.08:252][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/Games/Repository/IntermissionProject/MobileProject/Saved/Config/Windows/Engine.ini]
+[2019.04.16-12.10.08:252][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.04.16-12.10.08:252][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.04.16-12.10.08:252][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.04.16-12.10.08:252][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.04.16-12.10.08:252][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.04.16-12.10.08:252][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.04.16-12.10.08:252][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.04.16-12.10.08:252][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.04.16-12.10.08:252][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.04.16-12.10.08:252][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.04.16-12.10.08:252][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.04.16-12.10.08:252][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.04.16-12.10.08:252][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.04.16-12.10.08:252][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [E:/Games/Repository/IntermissionProject/MobileProject/Saved/Config/Windows/Engine.ini]
+[2019.04.16-12.10.08:252][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.04.16-12.10.08:252][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.04.16-12.10.08:252][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.04.16-12.10.08:252][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.04.16-12.10.08:252][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.04.16-12.10.08:252][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.04.16-12.10.08:252][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.04.16-12.10.08:252][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.04.16-12.10.08:252][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.04.16-12.10.08:252][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.04.16-12.10.08:252][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.04.16-12.10.08:252][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.04.16-12.10.08:252][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.04.16-12.10.08:252][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.04.16-12.10.08:252][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [E:/Games/Repository/IntermissionProject/MobileProject/Saved/Config/Windows/Engine.ini]
+[2019.04.16-12.10.08:252][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [E:/Games/Repository/IntermissionProject/MobileProject/Saved/Config/Windows/Engine.ini]
+[2019.04.16-12.10.08:256][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/Games/Repository/IntermissionProject/MobileProject/Saved/Config/Windows/Scalability.ini]
+[2019.04.16-12.10.08:256][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.04.16-12.10.08:256][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.04.16-12.10.08:256][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/Games/Repository/IntermissionProject/MobileProject/Saved/Config/Windows/Scalability.ini]
+[2019.04.16-12.10.08:256][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.04.16-12.10.08:256][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/Games/Repository/IntermissionProject/MobileProject/Saved/Config/Windows/Scalability.ini]
+[2019.04.16-12.10.08:256][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.04.16-12.10.08:256][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.04.16-12.10.08:256][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.04.16-12.10.08:256][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.04.16-12.10.08:256][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.04.16-12.10.08:256][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.04.16-12.10.08:256][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.04.16-12.10.08:256][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.04.16-12.10.08:256][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.04.16-12.10.08:256][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.04.16-12.10.08:256][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.04.16-12.10.08:256][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.04.16-12.10.08:256][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.04.16-12.10.08:256][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.04.16-12.10.08:256][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.04.16-12.10.08:256][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.04.16-12.10.08:256][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.04.16-12.10.08:256][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.04.16-12.10.08:256][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/Games/Repository/IntermissionProject/MobileProject/Saved/Config/Windows/Scalability.ini]
+[2019.04.16-12.10.08:256][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.04.16-12.10.08:256][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.04.16-12.10.08:256][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.04.16-12.10.08:256][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.04.16-12.10.08:256][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.04.16-12.10.08:256][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.04.16-12.10.08:256][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.04.16-12.10.08:256][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.04.16-12.10.08:256][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.04.16-12.10.08:256][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.04.16-12.10.08:256][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.04.16-12.10.08:256][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.04.16-12.10.08:256][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.04.16-12.10.08:256][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.04.16-12.10.08:256][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.04.16-12.10.08:256][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.04.16-12.10.08:256][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.04.16-12.10.08:256][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.04.16-12.10.08:256][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.04.16-12.10.08:256][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.04.16-12.10.08:256][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.04.16-12.10.08:256][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.04.16-12.10.08:256][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.04.16-12.10.08:256][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.04.16-12.10.08:256][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.04.16-12.10.08:256][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.04.16-12.10.08:256][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.04.16-12.10.08:256][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.04.16-12.10.08:256][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.04.16-12.10.08:256][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.04.16-12.10.08:256][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/Games/Repository/IntermissionProject/MobileProject/Saved/Config/Windows/Scalability.ini]
+[2019.04.16-12.10.08:256][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.04.16-12.10.08:256][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.04.16-12.10.08:256][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.04.16-12.10.08:256][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.04.16-12.10.08:256][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.04.16-12.10.08:257][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.04.16-12.10.08:257][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.04.16-12.10.08:257][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.04.16-12.10.08:257][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/Games/Repository/IntermissionProject/MobileProject/Saved/Config/Windows/Scalability.ini]
+[2019.04.16-12.10.08:257][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.04.16-12.10.08:257][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.04.16-12.10.08:257][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.04.16-12.10.08:257][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.04.16-12.10.08:257][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.04.16-12.10.08:257][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.04.16-12.10.08:257][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.04.16-12.10.08:257][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.04.16-12.10.08:257][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.04.16-12.10.08:257][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.04.16-12.10.08:257][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.04.16-12.10.08:257][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.04.16-12.10.08:257][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.04.16-12.10.08:257][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/Games/Repository/IntermissionProject/MobileProject/Saved/Config/Windows/Scalability.ini]
+[2019.04.16-12.10.08:257][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.04.16-12.10.08:257][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.04.16-12.10.08:257][  0]LogInit: Selected Device Profile: [Windows]
+[2019.04.16-12.10.08:257][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.04.16-12.10.08:266][  0]LogHAL: Display: Platform has ~ 16 GB [17016324096 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.04.16-12.10.08:267][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.04.16-12.10.08:267][  0]LogInit: Going up to parent DeviceProfile []
+[2019.04.16-12.10.08:267][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/Games/Repository/IntermissionProject/MobileProject/Saved/Config/Windows/Scalability.ini]
+[2019.04.16-12.10.08:267][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.04.16-12.10.08:267][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.04.16-12.10.08:267][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/Games/Repository/IntermissionProject/MobileProject/Saved/Config/Windows/Scalability.ini]
+[2019.04.16-12.10.08:267][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.04.16-12.10.08:267][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/Games/Repository/IntermissionProject/MobileProject/Saved/Config/Windows/Scalability.ini]
+[2019.04.16-12.10.08:267][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.04.16-12.10.08:267][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.04.16-12.10.08:267][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.04.16-12.10.08:267][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.04.16-12.10.08:267][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.04.16-12.10.08:267][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.04.16-12.10.08:267][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.04.16-12.10.08:267][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.04.16-12.10.08:267][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.04.16-12.10.08:267][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.04.16-12.10.08:267][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.04.16-12.10.08:267][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.04.16-12.10.08:267][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.04.16-12.10.08:267][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.04.16-12.10.08:267][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.04.16-12.10.08:267][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.04.16-12.10.08:267][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.04.16-12.10.08:267][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.04.16-12.10.08:267][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/Games/Repository/IntermissionProject/MobileProject/Saved/Config/Windows/Scalability.ini]
+[2019.04.16-12.10.08:267][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.04.16-12.10.08:267][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.04.16-12.10.08:267][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.04.16-12.10.08:267][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.04.16-12.10.08:267][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.04.16-12.10.08:267][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.04.16-12.10.08:267][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.04.16-12.10.08:267][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.04.16-12.10.08:267][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.04.16-12.10.08:267][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.04.16-12.10.08:267][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.04.16-12.10.08:267][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.04.16-12.10.08:267][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.04.16-12.10.08:267][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.04.16-12.10.08:267][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.04.16-12.10.08:267][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.04.16-12.10.08:267][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.04.16-12.10.08:267][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.04.16-12.10.08:267][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.04.16-12.10.08:267][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.04.16-12.10.08:267][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.04.16-12.10.08:267][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.04.16-12.10.08:267][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.04.16-12.10.08:267][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.04.16-12.10.08:267][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.04.16-12.10.08:267][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.04.16-12.10.08:267][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.04.16-12.10.08:267][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.04.16-12.10.08:267][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.04.16-12.10.08:267][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.04.16-12.10.08:267][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/Games/Repository/IntermissionProject/MobileProject/Saved/Config/Windows/Scalability.ini]
+[2019.04.16-12.10.08:267][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.04.16-12.10.08:267][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.04.16-12.10.08:267][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.04.16-12.10.08:267][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.04.16-12.10.08:267][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.04.16-12.10.08:267][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.04.16-12.10.08:267][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.04.16-12.10.08:267][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.04.16-12.10.08:267][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/Games/Repository/IntermissionProject/MobileProject/Saved/Config/Windows/Scalability.ini]
+[2019.04.16-12.10.08:267][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.04.16-12.10.08:267][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.04.16-12.10.08:267][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.04.16-12.10.08:267][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.04.16-12.10.08:267][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.04.16-12.10.08:267][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.04.16-12.10.08:267][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.04.16-12.10.08:267][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.04.16-12.10.08:267][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.04.16-12.10.08:267][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.04.16-12.10.08:267][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.04.16-12.10.08:267][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.04.16-12.10.08:267][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.04.16-12.10.08:267][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/Games/Repository/IntermissionProject/MobileProject/Saved/Config/Windows/Scalability.ini]
+[2019.04.16-12.10.08:268][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.04.16-12.10.08:268][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.04.16-12.10.08:268][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.04.16-12.10.08:268][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.04.16-12.10.08:268][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [E:/Games/Repository/IntermissionProject/MobileProject/Saved/Config/Windows/Engine.ini]
+[2019.04.16-12.10.08:268][  0]LogInit: Computer: DESKTOP-141GE8S
+[2019.04.16-12.10.08:268][  0]LogInit: User: DankeaterMemedir
+[2019.04.16-12.10.08:268][  0]LogInit: CPU Page size=4096, Cores=6
+[2019.04.16-12.10.08:268][  0]LogInit: High frequency timer resolution =2.156252 MHz
+[2019.04.16-12.10.08:268][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
+[2019.04.16-12.10.08:268][  0]LogMemory: Platform Memory Stats for Windows
+[2019.04.16-12.10.08:268][  0]LogMemory: Process Physical Memory: 103.47 MB used, 103.47 MB peak
+[2019.04.16-12.10.08:268][  0]LogMemory: Process Virtual Memory: 86.56 MB used, 86.56 MB peak
+[2019.04.16-12.10.08:268][  0]LogMemory: Physical Memory: 6925.08 MB used,  9302.95 MB free, 16228.03 MB total
+[2019.04.16-12.10.08:268][  0]LogMemory: Virtual Memory: 4660.22 MB used,  134213064.00 MB free, 134217728.00 MB total
+[2019.04.16-12.10.08:287][  0]LogInit: Using OS detected language (en-US).
+[2019.04.16-12.10.08:287][  0]LogInit: Using OS detected locale (en-US).
+[2019.04.16-12.10.08:287][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.04.16-12.10.08:604][  0]LogStreaming: Display: Took  0.317s to InitEngineTextLocalization.
+[2019.04.16-12.10.08:626][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.04.16-12.10.08:626][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.04.16-12.10.08:798][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.04.16-12.10.08:798][  0]LogD3D11RHI: D3D11 adapters:
+[2019.04.16-12.10.08:858][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060' (Feature Level 11_0)
+[2019.04.16-12.10.08:858][  0]LogD3D11RHI:       6052/0/8114 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.04.16-12.10.08:872][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2019.04.16-12.10.08:872][  0]LogD3D11RHI:       128/0/8114 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.04.16-12.10.08:874][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.04.16-12.10.08:874][  0]LogD3D11RHI:       0/0/8114 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.04.16-12.10.08:874][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.04.16-12.10.08:897][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.04.16-12.10.08:897][  0]LogD3D11RHI:     GPU DeviceId: 0x1c20 (for the marketing name, search the web for "GPU Device Id")
+[2019.04.16-12.10.08:897][  0]LogWindows: EnumDisplayDevices:
+[2019.04.16-12.10.08:897][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2019.04.16-12.10.08:898][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.04.16-12.10.08:898][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.04.16-12.10.08:898][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060' (P:0 D:1)
+[2019.04.16-12.10.08:898][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2019.04.16-12.10.08:899][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2019.04.16-12.10.08:900][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2019.04.16-12.10.08:900][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2019.04.16-12.10.08:900][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060
+[2019.04.16-12.10.08:900][  0]LogD3D11RHI:   Driver Version: 419.35 (internal:25.21.14.1935, unified:419.35)
+[2019.04.16-12.10.08:900][  0]LogD3D11RHI:      Driver Date: 3-1-2019
+[2019.04.16-12.10.08:900][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2019.04.16-12.10.08:937][  0]LogD3D11RHI: Async texture creation enabled
+[2019.04.16-12.10.08:951][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.04.16-12.10.09:240][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.04.16-12.10.09:250][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.04.16-12.10.09:260][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.04.16-12.10.09:271][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.04.16-12.10.09:281][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.04.16-12.10.09:292][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.04.16-12.10.09:302][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.04.16-12.10.09:313][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.04.16-12.10.09:317][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.04.16-12.10.09:380][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.16-12.10.09:380][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.16-12.10.09:380][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.16-12.10.09:380][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.16-12.10.09:380][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.16-12.10.09:380][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.16-12.10.09:380][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.16-12.10.09:380][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.16-12.10.09:380][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.16-12.10.09:380][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.16-12.10.09:380][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.16-12.10.09:380][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.16-12.10.09:380][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.16-12.10.09:380][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.16-12.10.09:380][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.16-12.10.09:380][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.16-12.10.09:380][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.16-12.10.09:380][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.16-12.10.09:382][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.04.16-12.10.09:437][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.04.16-12.10.09:437][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.04.16-12.10.09:457][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.04.16-12.10.09:457][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.04.16-12.10.09:467][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.04.16-12.10.09:478][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.04.16-12.10.09:489][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.04.16-12.10.09:499][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.04.16-12.10.09:536][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.04.16-12.10.09:536][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.04.16-12.10.09:536][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.04.16-12.10.09:572][  0]LogShaderCompilers: Guid format shader working directory is -10 characters bigger than the processId version (../../../../../../Games/Repository/IntermissionProject/MobileProject/Intermediate/Shaders/WorkingDirectory/2380/).
+[2019.04.16-12.10.09:573][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Dankeater Memedir/AppData/Local/Temp/UnrealShaderWorkingDir/2ED84F8942530415595533B9B4751089/'.
+[2019.04.16-12.10.09:574][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.04.16-12.10.09:574][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.04.16-12.10.09:574][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.04.16-12.10.10:027][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.04.16-12.10.10:070][  0]LogDerivedDataCache: Loaded boot cache 0.04s 71MB C:/Users/Dankeater Memedir/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.04.16-12.10.10:070][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Dankeater Memedir/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.04.16-12.10.10:070][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Games/Repository/IntermissionProject/MobileProject/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.04.16-12.10.10:070][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.04.16-12.10.10:070][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Games/Repository/IntermissionProject/MobileProject/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.04.16-12.10.10:070][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.04.16-12.10.10:083][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.04.16-12.10.10:083][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.04.16-12.10.10:083][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.04.16-12.10.10:096][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Dankeater Memedir/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.04.16-12.10.10:096][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.04.16-12.10.10:096][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.04.16-12.10.10:115][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.04.16-12.10.10:116][  0]LogSlate: Using FreeType 2.6.0
+[2019.04.16-12.10.10:116][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.04.16-12.10.10:192][  0]LogAssetRegistry: FAssetRegistry took 0.0314 seconds to start up
+[2019.04.16-12.10.10:442][  0]LogInit: Selected Device Profile: [Windows]
+[2019.04.16-12.10.10:562][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.04.16-12.10.10:565][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.04.16-12.10.10:565][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.04.16-12.10.10:565][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.04.16-12.10.10:565][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.04.16-12.10.10:576][  0]LogNetVersion: MobileProject 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 2592796191)
+[2019.04.16-12.10.10:974][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.070459 seconds
+[2019.04.16-12.10.10:979][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2019.04.16-12.10.10:979][  0]LogUObjectAllocator: 6914656 out of 0 bytes used by permanent object pool.
+[2019.04.16-12.10.10:979][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.04.16-12.10.11:690][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.04.16-12.10.11:703][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.04.16-12.10.12:279][  0]SourceControl: Source control is disabled
+[2019.04.16-12.10.12:279][  0]SourceControl: Source control is disabled
+[2019.04.16-12.10.12:280][  0]SourceControl: Source control is disabled
+[2019.04.16-12.10.12:281][  0]SourceControl: Source control is disabled
+[2019.04.16-12.10.12:426][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.04.16-12.10.12:483][  0]LogOcInput: OculusInput pre-init called
+[2019.04.16-12.10.12:604][  0]LogEngine: Initializing Engine...
+[2019.04.16-12.10.12:605][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.04.16-12.10.12:606][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.04.16-12.10.12:606][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.04.16-12.10.12:606][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.04.16-12.10.12:606][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.04.16-12.10.12:802][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.04.16-12.10.12:810][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.04.16-12.10.12:821][  0]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.16-12.10.12:862][  0]LogInit: FAudioDevice initialized.
+[2019.04.16-12.10.12:862][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.04.16-12.10.12:935][  0]LogDerivedDataCache: Saved boot cache 0.07s 71MB C:/Users/Dankeater Memedir/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.04.16-12.10.12:945][  0]LogInit: Texture streaming: Enabled
+[2019.04.16-12.10.12:956][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.04.16-12.10.12:967][  0]LogInit: Transaction tracking system initialized
+[2019.04.16-12.10.12:981][  0]BlueprintLog: New page: Editor Load
+[2019.04.16-12.10.13:025][  0]LocalizationService: Localization service is disabled
+[2019.04.16-12.10.13:390][  0]LogFileCache: Scanning file cache for directory 'E:/Games/Repository/IntermissionProject/MobileProject/Content/' took 0.01s
+[2019.04.16-12.10.13:390][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.04.16-12.10.13:390][  0]LogCook: Display: Mobile HDR setting 0
+[2019.04.16-12.10.13:390][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.04.16-12.10.13:390][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.04.16-12.10.13:390][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.04.16-12.10.13:390][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.04.16-12.10.13:390][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.04.16-12.10.13:490][  0]SourceControl: Source control is disabled
+[2019.04.16-12.10.13:490][  0]Cmd: MAP LOAD FILE="../../../../../../Games/Repository/IntermissionProject/MobileProject/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.04.16-12.10.13:491][  0]LightingResults: New page: Lighting Build
+[2019.04.16-12.10.13:492][  0]MapCheck: New page: Map Check
+[2019.04.16-12.10.13:492][  0]LightingResults: New page: Lighting Build
+[2019.04.16-12.10.13:777][  0]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2019.04.16-12.10.13:784][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.04.16-12.10.13:807][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.04.16-12.10.13:807][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.11ms to complete.
+[2019.04.16-12.10.13:807][  0]LogFileHelpers: Loading map 'SideScrollerExampleMap' took 0.317
+[2019.04.16-12.10.13:893][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.16-12.10.13:900][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.16-12.10.13:906][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.16-12.10.13:912][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.16-12.10.13:916][  0]LogCollectionManager: Loaded 0 collections in 0.000781 seconds
+[2019.04.16-12.10.13:931][  0]LogFileCache: Scanning file cache for directory 'E:/Games/Repository/IntermissionProject/MobileProject/Saved/Collections/' took 0.01s
+[2019.04.16-12.10.13:931][  0]LogFileCache: Scanning file cache for directory 'E:/Games/Repository/IntermissionProject/MobileProject/Content/Developers/DankeaterMemedir/Collections/' took 0.00s
+[2019.04.16-12.10.13:931][  0]LogFileCache: Scanning file cache for directory 'E:/Games/Repository/IntermissionProject/MobileProject/Content/Collections/' took 0.00s
+[2019.04.16-12.10.13:931][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.04.16-12.10.13:938][  0]LogContentBrowser: Native class hierarchy populated in 0.0071 seconds. Added 2651 classes and 620 folders.
+[2019.04.16-12.10.13:943][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.04.16-12.10.13:944][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.16-12.10.13:945][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.16-12.10.13:945][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.16-12.10.13:946][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.16-12.10.13:946][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.16-12.10.13:946][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.16-12.10.13:947][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.16-12.10.13:947][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.16-12.10.13:947][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.16-12.10.13:948][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.16-12.10.13:948][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.16-12.10.13:948][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.16-12.10.13:949][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.16-12.10.13:949][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.16-12.10.13:949][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.16-12.10.13:950][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.16-12.10.13:950][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.16-12.10.13:950][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.16-12.10.13:951][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.16-12.10.13:951][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.16-12.10.13:951][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.16-12.10.13:952][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.16-12.10.13:952][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.16-12.10.13:953][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.16-12.10.13:953][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.16-12.10.13:953][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.16-12.10.13:978][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.04.16-12.10.13:981][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2019.04.16-12.10.14:032][  0]LogSlate: Took 0.000156 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.04.16-12.10.14:034][  0]LogSlate: Took 0.000122 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.04.16-12.10.14:041][  0]LogSlate: Took 0.000172 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.04.16-12.10.14:115][  0]LogRenderer: Reallocating scene render targets to support 1128x536 Format 10 NumSamples 1 (Frame:1).
+[2019.04.16-12.10.14:231][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.04.16-12.10.14:231][  0]LogLoad: (Engine Initialization) Total time: 7.54 seconds
+[2019.04.16-12.10.14:231][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.04.16-12.10.14:250][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.04.16-12.10.14:312][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.04.16-12.10.14:346][  0]LogSlate: Took 0.000138 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.04.16-12.10.14:410][  1]LogAssetRegistry: Asset discovery search completed in 4.2408 seconds
+[2019.04.16-12.10.14:412][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.04.16-12.10.14:412][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000038 seconds (updated 0 objects)
+[2019.04.16-12.10.15:263][ 52]LogSlate: Took 0.000187 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.04.16-12.11.17:122][751]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.16-12.11.17:258][758]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/SideScrollerBP/Blueprints/Custom_BPs/BlackWall_Lenght1_BP.BlackWall_Lenght1_BP
+[2019.04.16-12.11.17:626][758]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 117 classes and 0 folders.
+[2019.04.16-12.11.18:240][758]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/SideScrollerBP/Blueprints/Custom_BPs/RedWall_Lenght1_BP.RedWall_Lenght1_BP
+[2019.04.16-12.11.18:476][758]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/SideScrollerBP/Blueprints/Custom_BPs/Spawner_BP.Spawner_BP
+[2019.04.16-12.11.18:723][758]LogSlate: Took 0.000152 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.04.16-12.11.18:772][759]LogSlate: Took 0.000125 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.04.16-12.15.35:238][ 22]LogSlate: Window 'Editor Preferences' being destroyed
+[2019.04.16-12.15.35:244][ 22]LogSlate: Window 'Editor Preferences' being destroyed
+[2019.04.16-12.15.38:321][193]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.16-12.15.38:340][193]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.04.16-12.15.38:340][193]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.16-12.15.38:341][193]PIE: New page: PIE session: SideScrollerExampleMap (Apr 16, 2019, 4:15:38 PM)
+[2019.04.16-12.15.38:354][193]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2019.04.16-12.15.38:370][193]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015742s)
+[2019.04.16-12.15.38:371][193]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2019.04.16-12.15.38:371][193]LogPlayLevel: PIE: World Init took: (0.000719s)
+[2019.04.16-12.15.38:371][193]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.016742s)
+[2019.04.16-12.15.38:404][193]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.16-12.15.38:444][193]LogInit: FAudioDevice initialized.
+[2019.04.16-12.15.38:490][193]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2019.04.16-12.15.38:492][193]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 60) at 2019.04.16-14.15.38
+[2019.04.16-12.15.38:492][193]LogWorld: Bringing up level for play took: 0.000875
+[2019.04.16-12.15.38:507][193]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2019.04.16-12.15.38:508][193]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap 0.596
+[2019.04.16-12.15.38:508][193]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.04.16-12.15.38:509][193]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.38:545][194]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.38:561][195]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.38:578][196]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.38:595][197]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.38:611][198]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.38:628][199]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.38:645][200]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.38:661][201]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.38:678][202]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.38:695][203]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.38:711][204]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.38:730][205]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.38:745][206]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.38:762][207]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.38:778][208]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.38:795][209]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.38:812][210]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.38:828][211]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.38:845][212]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.38:862][213]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.38:878][214]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.38:896][215]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.38:912][216]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.38:929][217]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.38:945][218]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.38:963][219]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.38:979][220]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.38:996][221]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.39:012][222]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.39:029][223]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.39:045][224]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.39:061][225]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.39:078][226]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.39:095][227]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.39:111][228]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.39:128][229]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.39:145][230]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.39:161][231]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.39:178][232]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.39:196][233]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.39:212][234]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.39:228][235]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.39:245][236]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.39:262][237]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.39:278][238]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.39:295][239]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.39:312][240]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.39:328][241]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.39:345][242]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.39:362][243]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.39:379][244]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.39:396][245]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.39:412][246]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.39:428][247]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.39:445][248]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.39:461][249]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.39:478][250]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.39:495][251]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.39:511][252]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.39:528][253]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.39:545][254]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.39:561][255]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.39:578][256]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.39:595][257]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.39:612][258]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.39:628][259]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.39:645][260]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.39:662][261]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.39:678][262]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.39:695][263]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.39:712][264]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.39:729][265]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.39:745][266]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.39:762][267]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.39:778][268]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.39:795][269]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.39:811][270]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.39:828][271]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.39:845][272]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.39:861][273]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.39:878][274]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.39:895][275]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.39:912][276]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.39:928][277]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.39:945][278]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.39:962][279]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.39:979][280]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.39:995][281]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.40:012][282]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.40:028][283]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.40:045][284]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.40:061][285]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.40:078][286]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.40:095][287]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.40:111][288]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.40:128][289]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.40:145][290]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.40:162][291]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.40:179][292]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.40:195][293]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.40:212][294]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.40:228][295]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.40:246][296]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.40:262][297]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.40:279][298]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.40:294][299]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.40:312][300]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.40:328][301]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.40:345][302]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.40:362][303]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.40:378][304]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.40:395][305]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.40:412][306]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.40:428][307]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.40:445][308]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.40:462][309]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.40:479][310]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.40:495][311]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.40:512][312]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.40:529][313]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.40:545][314]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.40:562][315]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.40:579][316]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.40:596][317]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.40:611][318]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.40:628][319]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.40:645][320]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.40:661][321]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.40:678][322]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.40:695][323]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.40:712][324]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.40:728][325]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.40:745][326]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.40:762][327]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.40:778][328]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.40:795][329]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.40:812][330]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.40:829][331]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.40:845][332]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.40:862][333]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.40:879][334]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.40:895][335]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.40:912][336]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.40:929][337]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.40:946][338]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.40:962][339]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.40:978][340]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.40:995][341]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.41:011][342]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.41:028][343]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.41:045][344]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.41:062][345]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.41:078][346]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.41:095][347]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.41:112][348]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.41:128][349]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.41:145][350]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.41:162][351]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.41:178][352]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.41:195][353]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.41:212][354]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.41:229][355]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.41:245][356]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.41:262][357]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.41:279][358]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.41:296][359]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.41:312][360]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.41:329][361]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.41:345][362]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.41:361][363]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.41:378][364]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.41:395][365]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.41:411][366]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.41:428][367]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.41:445][368]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.41:461][369]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.41:479][370]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.41:495][371]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.41:512][372]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.41:529][373]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.41:546][374]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.41:562][375]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.41:578][376]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.41:595][377]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.41:612][378]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.41:628][379]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.41:645][380]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.41:662][381]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.41:678][382]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.41:695][383]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.41:712][384]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.41:728][385]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.41:745][386]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.41:762][387]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.41:779][388]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.41:795][389]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.41:812][390]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.41:829][391]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.41:846][392]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.41:861][393]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.41:878][394]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.41:895][395]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.41:912][396]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.41:928][397]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.41:945][398]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.41:962][399]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.41:979][400]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.41:996][401]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.42:012][402]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.42:029][403]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.42:046][404]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.42:062][405]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.42:079][406]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.42:095][407]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.42:111][408]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.42:128][409]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.42:145][410]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.42:161][411]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.42:178][412]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.42:195][413]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.42:212][414]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.42:228][415]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.42:245][416]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.42:262][417]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.42:278][418]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.42:295][419]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.42:312][420]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.42:328][421]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.42:345][422]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.42:362][423]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.42:379][424]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.42:395][425]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.42:412][426]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.42:429][427]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.42:446][428]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.42:462][429]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.42:478][430]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.42:495][431]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.42:512][432]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.42:528][433]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.42:545][434]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.42:562][435]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.42:579][436]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.42:595][437]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.42:612][438]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.42:629][439]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.42:645][440]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.42:662][441]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.42:678][442]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.42:695][443]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.42:711][444]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.42:728][445]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.42:745][446]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.42:761][447]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.42:778][448]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.42:795][449]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.42:811][450]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.42:828][451]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.42:845][452]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.42:861][453]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.42:878][454]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.42:895][455]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.42:912][456]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.42:928][457]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.42:945][458]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.42:962][459]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.42:978][460]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.42:995][461]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.43:012][462]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.43:029][463]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.43:045][464]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.43:062][465]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.43:079][466]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.43:095][467]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.43:112][468]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.43:129][469]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.43:146][470]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.43:162][471]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.43:178][472]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.43:195][473]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.43:211][474]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.43:228][475]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.43:245][476]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.43:261][477]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.43:279][478]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.43:295][479]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.43:312][480]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.43:329][481]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.43:346][482]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.43:361][483]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.43:378][484]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.43:395][485]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.43:412][486]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.43:429][487]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.43:445][488]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.43:462][489]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.43:478][490]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.43:495][491]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.43:512][492]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.43:528][493]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.43:545][494]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.43:562][495]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.43:578][496]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.43:595][497]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.43:612][498]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.43:629][499]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.43:645][500]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.43:662][501]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.43:679][502]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.43:696][503]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.43:712][504]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.43:729][505]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.43:745][506]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.43:761][507]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.43:778][508]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.43:795][509]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.43:811][510]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.43:828][511]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.43:845][512]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.43:862][513]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.43:878][514]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.43:895][515]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.43:912][516]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.43:928][517]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.43:945][518]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.43:962][519]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.43:978][520]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.43:995][521]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.44:012][522]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.44:029][523]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.44:045][524]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.44:062][525]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.44:079][526]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.44:096][527]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.44:112][528]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.44:128][529]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.44:145][530]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.44:161][531]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.44:178][532]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.44:195][533]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.44:211][534]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.44:228][535]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.44:245][536]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.44:262][537]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.44:278][538]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.44:295][539]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.44:312][540]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.44:328][541]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.44:345][542]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.44:362][543]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.44:378][544]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.44:396][545]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.44:412][546]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.44:429][547]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.44:445][548]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.44:462][549]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.44:479][550]PIE: Warning: Mobility of /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BlackWall_Lenght1_BP_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2019.04.16-12.15.44:479][550]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.04.16-12.15.44:480][550]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.16-12.15.44:512][550]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.16-12.15.44:514][550]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.04.16-12.15.44:545][550]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.16-12.15.44:554][550]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.16-12.15.44:631][551]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2019.04.16-12.15.48:782][799]LogSlate: Window 'Message Log' being destroyed
+[2019.04.16-12.15.48:791][799]LogSlate: Window 'Message Log' being destroyed
+[2019.04.16-12.15.51:371][949]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/SideScrollerBP/Blueprints/Custom_BPs/BlackWall_Lenght1_BP.BlackWall_Lenght1_BP
+[2019.04.16-12.15.57:786][316]LogRenderer: Reallocating scene render targets to support 1128x716 Format 10 NumSamples 1 (Frame:1).
+[2019.04.16-12.16.04:886][736]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.16-12.16.04:985][742]BlueprintLog: New page: Compile Spawner_BP
+[2019.04.16-12.16.05:159][742]LogSavePackage: Moving '../../../../../../Games/Repository/IntermissionProject/MobileProject/Saved/Spawner_BP9C8ADB774EA7E6D1A13EC6B86782F208.tmp' to '../../../../../../Games/Repository/IntermissionProject/MobileProject/Content/SideScrollerBP/Blueprints/Custom_BPs/Spawner_BP.uasset'
+[2019.04.16-12.16.09:279][987]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.16-12.16.09:299][987]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.04.16-12.16.09:299][987]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.16-12.16.09:299][987]PIE: New page: PIE session: SideScrollerExampleMap (Apr 16, 2019, 4:16:09 PM)
+[2019.04.16-12.16.09:299][987]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2019.04.16-12.16.09:309][987]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009291s)
+[2019.04.16-12.16.09:309][987]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2019.04.16-12.16.09:309][987]LogPlayLevel: PIE: World Init took: (0.000475s)
+[2019.04.16-12.16.09:309][987]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.009879s)
+[2019.04.16-12.16.09:341][987]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.16-12.16.09:381][987]LogInit: FAudioDevice initialized.
+[2019.04.16-12.16.09:409][987]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2019.04.16-12.16.09:411][987]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 60) at 2019.04.16-14.16.09
+[2019.04.16-12.16.09:411][987]LogWorld: Bringing up level for play took: 0.000881
+[2019.04.16-12.16.09:424][987]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap -0.488
+[2019.04.16-12.16.09:424][987]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'

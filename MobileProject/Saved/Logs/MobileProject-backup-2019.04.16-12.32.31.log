@@ -1,0 +1,2049 @@
+﻿Log file open, 04/16/19 14:31:23
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: MobileProject
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.406775
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.064s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4753647
+LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: E:/Program Files (x86)/UE4/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.04.16-12.31.23:389][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.04.16-12.31.23:389][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.04.16-12.31.23:389][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [E:/Games/Repository/IntermissionProject/MobileProject/Saved/Config/Windows/Engine.ini]
+[2019.04.16-12.31.23:389][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.04.16-12.31.23:389][  0]LogConfig: Setting CVar [[r.MobileHDR:0]]
+[2019.04.16-12.31.23:389][  0]LogConfig: Setting CVar [[r.Mobile.DisableVertexFog:1]]
+[2019.04.16-12.31.23:389][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxMobileCascades:2]]
+[2019.04.16-12.31.23:389][  0]LogConfig: Setting CVar [[r.MobileMSAA:1]]
+[2019.04.16-12.31.23:389][  0]LogConfig: Setting CVar [[r.Mobile.UseLegacyShadingModel:0]]
+[2019.04.16-12.31.23:389][  0]LogConfig: Setting CVar [[r.Mobile.AllowDitheredLODTransition:0]]
+[2019.04.16-12.31.23:389][  0]LogConfig: Setting CVar [[r.Mobile.AllowSoftwareOcclusion:0]]
+[2019.04.16-12.31.23:389][  0]LogConfig: Setting CVar [[r.DiscardUnusedQuality:0]]
+[2019.04.16-12.31.23:389][  0]LogConfig: Setting CVar [[r.AllowOcclusionQueries:1]]
+[2019.04.16-12.31.23:389][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForLights:0.030000]]
+[2019.04.16-12.31.23:389][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForDepthPrepass:0.030000]]
+[2019.04.16-12.31.23:389][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForCSMDepth:0.010000]]
+[2019.04.16-12.31.23:389][  0]LogConfig: Setting CVar [[r.PrecomputedVisibilityWarning:0]]
+[2019.04.16-12.31.23:389][  0]LogConfig: Setting CVar [[r.TextureStreaming:1]]
+[2019.04.16-12.31.23:389][  0]LogConfig: Setting CVar [[Compat.UseDXT5NormalMaps:0]]
+[2019.04.16-12.31.23:389][  0]LogConfig: Setting CVar [[r.ClearCoatNormal:0]]
+[2019.04.16-12.31.23:389][  0]LogConfig: Setting CVar [[r.ReflectionCaptureResolution:128]]
+[2019.04.16-12.31.23:389][  0]LogConfig: Setting CVar [[r.ReflectionEnvironmentLightmapMixBasedOnRoughness:1]]
+[2019.04.16-12.31.23:389][  0]LogConfig: Setting CVar [[r.ForwardShading:0]]
+[2019.04.16-12.31.23:389][  0]LogConfig: Setting CVar [[r.VertexFoggingForOpaque:1]]
+[2019.04.16-12.31.23:389][  0]LogConfig: Setting CVar [[r.AllowStaticLighting:1]]
+[2019.04.16-12.31.23:389][  0]LogConfig: Setting CVar [[r.NormalMapsForStaticLighting:0]]
+[2019.04.16-12.31.23:389][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:0]]
+[2019.04.16-12.31.23:389][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.EightBit:0]]
+[2019.04.16-12.31.23:389][  0]LogConfig: Setting CVar [[r.GenerateLandscapeGIData:0]]
+[2019.04.16-12.31.23:389][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.Compress:0]]
+[2019.04.16-12.31.23:389][  0]LogConfig: Setting CVar [[r.TessellationAdaptivePixelsPerTriangle:48.000000]]
+[2019.04.16-12.31.23:389][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:0]]
+[2019.04.16-12.31.23:389][  0]LogConfig: Setting CVar [[r.TranslucentSortPolicy:0]]
+[2019.04.16-12.31.23:389][  0]LogConfig: Setting CVar [[r.CustomDepth:1]]
+[2019.04.16-12.31.23:389][  0]LogConfig: Setting CVar [[r.CustomDepthTemporalAAJitter:1]]
+[2019.04.16-12.31.23:389][  0]LogConfig: Setting CVar [[r.PostProcessing.PropagateAlpha:0]]
+[2019.04.16-12.31.23:389][  0]LogConfig: Setting CVar [[r.DOF.Algorithm:1]]
+[2019.04.16-12.31.23:390][  0]LogConfig: Setting CVar [[r.DefaultFeature.Bloom:0]]
+[2019.04.16-12.31.23:390][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:0]]
+[2019.04.16-12.31.23:390][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:1]]
+[2019.04.16-12.31.23:390][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2019.04.16-12.31.23:390][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Method:0]]
+[2019.04.16-12.31.23:390][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:0]]
+[2019.04.16-12.31.23:390][  0]LogConfig: Setting CVar [[r.UsePreExposure:0]]
+[2019.04.16-12.31.23:390][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+[2019.04.16-12.31.23:390][  0]LogConfig: Setting CVar [[r.DefaultFeature.LensFlare:0]]
+[2019.04.16-12.31.23:390][  0]LogConfig: Setting CVar [[r.TemporalAA.Upsampling:0]]
+[2019.04.16-12.31.23:390][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:0]]
+[2019.04.16-12.31.23:390][  0]LogConfig: Setting CVar [[r.DefaultFeature.LightUnits:1]]
+[2019.04.16-12.31.23:390][  0]LogConfig: Setting CVar [[r.DefaultBackBufferPixelFormat:4]]
+[2019.04.16-12.31.23:390][  0]LogConfig: Setting CVar [[r.Shadow.UnbuiltPreviewInGame:1]]
+[2019.04.16-12.31.23:390][  0]LogConfig: Setting CVar [[r.StencilForLODDither:0]]
+[2019.04.16-12.31.23:390][  0]LogConfig: Setting CVar [[r.EarlyZPass:3]]
+[2019.04.16-12.31.23:390][  0]LogConfig: Setting CVar [[r.EarlyZPassMovable:1]]
+[2019.04.16-12.31.23:390][  0]LogConfig: Setting CVar [[r.EarlyZPassOnlyMaterialMasking:0]]
+[2019.04.16-12.31.23:390][  0]LogConfig: Setting CVar [[r.DBuffer:1]]
+[2019.04.16-12.31.23:390][  0]LogConfig: Setting CVar [[r.ClearSceneMethod:1]]
+[2019.04.16-12.31.23:390][  0]LogConfig: Setting CVar [[r.BasePassOutputsVelocity:0]]
+[2019.04.16-12.31.23:390][  0]LogConfig: Setting CVar [[r.SelectiveBasePassOutputs:0]]
+[2019.04.16-12.31.23:390][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeX:1024]]
+[2019.04.16-12.31.23:390][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeY:1024]]
+[2019.04.16-12.31.23:390][  0]LogConfig: Setting CVar [[r.AllowGlobalClipPlane:0]]
+[2019.04.16-12.31.23:390][  0]LogConfig: Setting CVar [[r.GBufferFormat:1]]
+[2019.04.16-12.31.23:390][  0]LogConfig: Setting CVar [[r.MorphTarget.Mode:1]]
+[2019.04.16-12.31.23:390][  0]LogConfig: Setting CVar [[vr.InstancedStereo:0]]
+[2019.04.16-12.31.23:390][  0]LogConfig: Setting CVar [[vr.MultiView:0]]
+[2019.04.16-12.31.23:390][  0]LogConfig: Setting CVar [[vr.MobileMultiView:0]]
+[2019.04.16-12.31.23:390][  0]LogConfig: Setting CVar [[vr.MobileMultiView.Direct:0]]
+[2019.04.16-12.31.23:390][  0]LogConfig: Setting CVar [[vr.MonoscopicFarField:0]]
+[2019.04.16-12.31.23:390][  0]LogConfig: Setting CVar [[vr.RoundRobinOcclusion:0]]
+[2019.04.16-12.31.23:390][  0]LogConfig: Setting CVar [[vr.ODSCapture:0]]
+[2019.04.16-12.31.23:390][  0]LogConfig: Setting CVar [[r.WireframeCullThreshold:5.000000]]
+[2019.04.16-12.31.23:390][  0]LogConfig: Setting CVar [[r.SupportStationarySkylight:1]]
+[2019.04.16-12.31.23:390][  0]LogConfig: Setting CVar [[r.SupportLowQualityLightmaps:1]]
+[2019.04.16-12.31.23:390][  0]LogConfig: Setting CVar [[r.SupportPointLightWholeSceneShadows:1]]
+[2019.04.16-12.31.23:390][  0]LogConfig: Setting CVar [[r.SupportAtmosphericFog:1]]
+[2019.04.16-12.31.23:390][  0]LogConfig: Setting CVar [[r.SkinCache.CompileShaders:0]]
+[2019.04.16-12.31.23:390][  0]LogConfig: Setting CVar [[r.Mobile.EnableStaticAndCSMShadowReceivers:1]]
+[2019.04.16-12.31.23:390][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableLightCSMShaderCulling:1]]
+[2019.04.16-12.31.23:390][  0]LogConfig: Setting CVar [[r.Mobile.AllowDistanceFieldShadows:1]]
+[2019.04.16-12.31.23:390][  0]LogConfig: Setting CVar [[r.Mobile.AllowMovableDirectionalLights:1]]
+[2019.04.16-12.31.23:390][  0]LogConfig: Setting CVar [[r.MobileNumDynamicPointLights:4]]
+[2019.04.16-12.31.23:390][  0]LogConfig: Setting CVar [[r.MobileDynamicPointLightsUseStaticBranch:1]]
+[2019.04.16-12.31.23:390][  0]LogConfig: Setting CVar [[r.SkinCache.SceneMemoryLimitInMB:128.000000]]
+[2019.04.16-12.31.23:390][  0]LogConfig: Setting CVar [[r.GPUSkin.Limit2BoneInfluences:0]]
+[2019.04.16-12.31.23:390][  0]LogConfig: Setting CVar [[r.SupportDepthOnlyIndexBuffers:1]]
+[2019.04.16-12.31.23:390][  0]LogConfig: Setting CVar [[r.SupportReversedIndexBuffers:1]]
+[2019.04.16-12.31.23:390][  0]LogConfig: Setting CVar [[r.SupportMaterialLayers:0]]
+[2019.04.16-12.31.23:390][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [E:/Games/Repository/IntermissionProject/MobileProject/Saved/Config/Windows/Engine.ini]
+[2019.04.16-12.31.23:390][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/Games/Repository/IntermissionProject/MobileProject/Saved/Config/Windows/Engine.ini]
+[2019.04.16-12.31.23:390][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.04.16-12.31.23:390][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.04.16-12.31.23:390][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.04.16-12.31.23:390][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.04.16-12.31.23:390][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.04.16-12.31.23:390][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.04.16-12.31.23:390][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.04.16-12.31.23:390][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.04.16-12.31.23:390][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.04.16-12.31.23:390][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.04.16-12.31.23:390][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.04.16-12.31.23:390][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.04.16-12.31.23:390][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.04.16-12.31.23:390][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [E:/Games/Repository/IntermissionProject/MobileProject/Saved/Config/Windows/Engine.ini]
+[2019.04.16-12.31.23:390][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.04.16-12.31.23:390][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.04.16-12.31.23:390][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.04.16-12.31.23:390][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.04.16-12.31.23:390][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.04.16-12.31.23:390][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.04.16-12.31.23:390][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.04.16-12.31.23:390][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.04.16-12.31.23:390][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.04.16-12.31.23:390][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.04.16-12.31.23:390][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.04.16-12.31.23:390][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.04.16-12.31.23:390][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.04.16-12.31.23:390][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.04.16-12.31.23:390][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [E:/Games/Repository/IntermissionProject/MobileProject/Saved/Config/Windows/Engine.ini]
+[2019.04.16-12.31.23:390][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [E:/Games/Repository/IntermissionProject/MobileProject/Saved/Config/Windows/Engine.ini]
+[2019.04.16-12.31.23:394][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/Games/Repository/IntermissionProject/MobileProject/Saved/Config/Windows/Scalability.ini]
+[2019.04.16-12.31.23:394][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.04.16-12.31.23:394][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.04.16-12.31.23:394][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/Games/Repository/IntermissionProject/MobileProject/Saved/Config/Windows/Scalability.ini]
+[2019.04.16-12.31.23:394][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.04.16-12.31.23:394][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/Games/Repository/IntermissionProject/MobileProject/Saved/Config/Windows/Scalability.ini]
+[2019.04.16-12.31.23:394][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.04.16-12.31.23:394][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.04.16-12.31.23:394][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.04.16-12.31.23:394][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.04.16-12.31.23:394][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.04.16-12.31.23:394][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.04.16-12.31.23:394][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.04.16-12.31.23:394][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.04.16-12.31.23:394][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.04.16-12.31.23:394][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.04.16-12.31.23:394][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.04.16-12.31.23:394][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.04.16-12.31.23:394][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.04.16-12.31.23:394][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.04.16-12.31.23:394][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.04.16-12.31.23:394][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.04.16-12.31.23:394][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.04.16-12.31.23:394][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.04.16-12.31.23:394][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/Games/Repository/IntermissionProject/MobileProject/Saved/Config/Windows/Scalability.ini]
+[2019.04.16-12.31.23:394][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.04.16-12.31.23:394][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.04.16-12.31.23:394][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.04.16-12.31.23:394][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.04.16-12.31.23:394][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.04.16-12.31.23:394][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.04.16-12.31.23:394][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.04.16-12.31.23:394][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.04.16-12.31.23:394][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.04.16-12.31.23:394][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.04.16-12.31.23:394][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.04.16-12.31.23:394][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.04.16-12.31.23:394][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.04.16-12.31.23:394][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.04.16-12.31.23:394][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.04.16-12.31.23:394][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.04.16-12.31.23:394][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.04.16-12.31.23:394][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.04.16-12.31.23:394][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.04.16-12.31.23:394][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.04.16-12.31.23:394][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.04.16-12.31.23:394][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.04.16-12.31.23:394][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.04.16-12.31.23:394][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.04.16-12.31.23:394][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.04.16-12.31.23:394][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.04.16-12.31.23:394][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.04.16-12.31.23:394][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.04.16-12.31.23:394][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.04.16-12.31.23:394][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.04.16-12.31.23:394][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/Games/Repository/IntermissionProject/MobileProject/Saved/Config/Windows/Scalability.ini]
+[2019.04.16-12.31.23:395][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.04.16-12.31.23:395][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.04.16-12.31.23:395][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.04.16-12.31.23:395][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.04.16-12.31.23:395][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.04.16-12.31.23:395][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.04.16-12.31.23:395][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.04.16-12.31.23:395][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.04.16-12.31.23:395][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/Games/Repository/IntermissionProject/MobileProject/Saved/Config/Windows/Scalability.ini]
+[2019.04.16-12.31.23:395][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.04.16-12.31.23:395][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.04.16-12.31.23:395][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.04.16-12.31.23:395][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.04.16-12.31.23:395][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.04.16-12.31.23:395][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.04.16-12.31.23:395][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.04.16-12.31.23:395][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.04.16-12.31.23:395][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.04.16-12.31.23:395][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.04.16-12.31.23:395][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.04.16-12.31.23:395][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.04.16-12.31.23:395][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.04.16-12.31.23:395][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/Games/Repository/IntermissionProject/MobileProject/Saved/Config/Windows/Scalability.ini]
+[2019.04.16-12.31.23:395][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.04.16-12.31.23:395][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.04.16-12.31.23:395][  0]LogInit: Selected Device Profile: [Windows]
+[2019.04.16-12.31.23:395][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.04.16-12.31.23:405][  0]LogHAL: Display: Platform has ~ 16 GB [17016324096 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.04.16-12.31.23:405][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.04.16-12.31.23:405][  0]LogInit: Going up to parent DeviceProfile []
+[2019.04.16-12.31.23:405][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/Games/Repository/IntermissionProject/MobileProject/Saved/Config/Windows/Scalability.ini]
+[2019.04.16-12.31.23:405][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.04.16-12.31.23:405][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.04.16-12.31.23:405][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/Games/Repository/IntermissionProject/MobileProject/Saved/Config/Windows/Scalability.ini]
+[2019.04.16-12.31.23:405][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.04.16-12.31.23:405][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/Games/Repository/IntermissionProject/MobileProject/Saved/Config/Windows/Scalability.ini]
+[2019.04.16-12.31.23:405][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.04.16-12.31.23:405][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.04.16-12.31.23:405][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.04.16-12.31.23:405][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.04.16-12.31.23:405][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.04.16-12.31.23:405][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.04.16-12.31.23:405][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.04.16-12.31.23:405][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.04.16-12.31.23:405][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.04.16-12.31.23:405][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.04.16-12.31.23:405][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.04.16-12.31.23:405][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.04.16-12.31.23:405][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.04.16-12.31.23:405][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.04.16-12.31.23:405][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.04.16-12.31.23:405][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.04.16-12.31.23:405][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.04.16-12.31.23:405][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.04.16-12.31.23:405][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/Games/Repository/IntermissionProject/MobileProject/Saved/Config/Windows/Scalability.ini]
+[2019.04.16-12.31.23:405][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.04.16-12.31.23:405][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.04.16-12.31.23:405][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.04.16-12.31.23:405][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.04.16-12.31.23:405][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.04.16-12.31.23:405][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.04.16-12.31.23:405][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.04.16-12.31.23:405][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.04.16-12.31.23:405][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.04.16-12.31.23:405][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.04.16-12.31.23:405][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.04.16-12.31.23:405][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.04.16-12.31.23:405][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.04.16-12.31.23:405][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.04.16-12.31.23:405][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.04.16-12.31.23:405][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.04.16-12.31.23:405][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.04.16-12.31.23:405][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.04.16-12.31.23:405][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.04.16-12.31.23:405][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.04.16-12.31.23:405][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.04.16-12.31.23:405][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.04.16-12.31.23:405][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.04.16-12.31.23:405][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.04.16-12.31.23:405][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.04.16-12.31.23:405][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.04.16-12.31.23:405][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.04.16-12.31.23:405][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.04.16-12.31.23:405][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.04.16-12.31.23:405][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.04.16-12.31.23:405][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/Games/Repository/IntermissionProject/MobileProject/Saved/Config/Windows/Scalability.ini]
+[2019.04.16-12.31.23:405][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.04.16-12.31.23:405][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.04.16-12.31.23:405][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.04.16-12.31.23:405][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.04.16-12.31.23:406][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.04.16-12.31.23:406][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.04.16-12.31.23:406][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.04.16-12.31.23:406][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.04.16-12.31.23:406][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/Games/Repository/IntermissionProject/MobileProject/Saved/Config/Windows/Scalability.ini]
+[2019.04.16-12.31.23:406][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.04.16-12.31.23:406][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.04.16-12.31.23:406][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.04.16-12.31.23:406][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.04.16-12.31.23:406][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.04.16-12.31.23:406][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.04.16-12.31.23:406][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.04.16-12.31.23:406][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.04.16-12.31.23:406][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.04.16-12.31.23:406][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.04.16-12.31.23:406][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.04.16-12.31.23:406][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.04.16-12.31.23:406][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.04.16-12.31.23:406][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/Games/Repository/IntermissionProject/MobileProject/Saved/Config/Windows/Scalability.ini]
+[2019.04.16-12.31.23:406][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.04.16-12.31.23:406][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.04.16-12.31.23:406][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.04.16-12.31.23:406][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.04.16-12.31.23:406][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [E:/Games/Repository/IntermissionProject/MobileProject/Saved/Config/Windows/Engine.ini]
+[2019.04.16-12.31.23:406][  0]LogInit: Computer: DESKTOP-141GE8S
+[2019.04.16-12.31.23:406][  0]LogInit: User: DankeaterMemedir
+[2019.04.16-12.31.23:406][  0]LogInit: CPU Page size=4096, Cores=6
+[2019.04.16-12.31.23:406][  0]LogInit: High frequency timer resolution =2.156252 MHz
+[2019.04.16-12.31.23:406][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
+[2019.04.16-12.31.23:406][  0]LogMemory: Platform Memory Stats for Windows
+[2019.04.16-12.31.23:406][  0]LogMemory: Process Physical Memory: 103.45 MB used, 103.45 MB peak
+[2019.04.16-12.31.23:406][  0]LogMemory: Process Virtual Memory: 86.57 MB used, 86.57 MB peak
+[2019.04.16-12.31.23:406][  0]LogMemory: Physical Memory: 6918.89 MB used,  9309.14 MB free, 16228.03 MB total
+[2019.04.16-12.31.23:406][  0]LogMemory: Virtual Memory: 4660.22 MB used,  134213064.00 MB free, 134217728.00 MB total
+[2019.04.16-12.31.23:425][  0]LogInit: Using OS detected language (en-US).
+[2019.04.16-12.31.23:425][  0]LogInit: Using OS detected locale (en-US).
+[2019.04.16-12.31.23:426][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.04.16-12.31.23:745][  0]LogStreaming: Display: Took  0.321s to InitEngineTextLocalization.
+[2019.04.16-12.31.23:767][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.04.16-12.31.23:767][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.04.16-12.31.23:961][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.04.16-12.31.23:961][  0]LogD3D11RHI: D3D11 adapters:
+[2019.04.16-12.31.24:016][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060' (Feature Level 11_0)
+[2019.04.16-12.31.24:016][  0]LogD3D11RHI:       6052/0/8114 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.04.16-12.31.24:030][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2019.04.16-12.31.24:030][  0]LogD3D11RHI:       128/0/8114 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.04.16-12.31.24:032][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.04.16-12.31.24:032][  0]LogD3D11RHI:       0/0/8114 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.04.16-12.31.24:032][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.04.16-12.31.24:059][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.04.16-12.31.24:059][  0]LogD3D11RHI:     GPU DeviceId: 0x1c20 (for the marketing name, search the web for "GPU Device Id")
+[2019.04.16-12.31.24:059][  0]LogWindows: EnumDisplayDevices:
+[2019.04.16-12.31.24:060][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2019.04.16-12.31.24:061][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.04.16-12.31.24:062][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.04.16-12.31.24:063][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060' (P:0 D:1)
+[2019.04.16-12.31.24:063][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2019.04.16-12.31.24:064][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2019.04.16-12.31.24:065][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2019.04.16-12.31.24:065][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2019.04.16-12.31.24:065][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060
+[2019.04.16-12.31.24:065][  0]LogD3D11RHI:   Driver Version: 419.35 (internal:25.21.14.1935, unified:419.35)
+[2019.04.16-12.31.24:065][  0]LogD3D11RHI:      Driver Date: 3-1-2019
+[2019.04.16-12.31.24:065][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2019.04.16-12.31.24:104][  0]LogD3D11RHI: Async texture creation enabled
+[2019.04.16-12.31.24:119][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.04.16-12.31.24:441][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.04.16-12.31.24:451][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.04.16-12.31.24:462][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.04.16-12.31.24:472][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.04.16-12.31.24:483][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.04.16-12.31.24:493][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.04.16-12.31.24:504][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.04.16-12.31.24:514][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.04.16-12.31.24:519][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.04.16-12.31.24:581][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.16-12.31.24:581][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.16-12.31.24:581][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.16-12.31.24:581][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.16-12.31.24:581][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.16-12.31.24:581][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.16-12.31.24:582][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.16-12.31.24:582][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.16-12.31.24:582][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.16-12.31.24:582][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.16-12.31.24:582][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.16-12.31.24:582][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.16-12.31.24:582][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.16-12.31.24:582][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.16-12.31.24:582][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.16-12.31.24:582][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.16-12.31.24:582][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.16-12.31.24:582][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.16-12.31.24:583][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.04.16-12.31.24:638][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.04.16-12.31.24:638][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.04.16-12.31.24:658][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.04.16-12.31.24:658][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.04.16-12.31.24:668][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.04.16-12.31.24:679][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.04.16-12.31.24:690][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.04.16-12.31.24:701][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.04.16-12.31.24:737][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.04.16-12.31.24:737][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.04.16-12.31.24:737][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.04.16-12.31.24:774][  0]LogShaderCompilers: Guid format shader working directory is -11 characters bigger than the processId version (../../../../../../Games/Repository/IntermissionProject/MobileProject/Intermediate/Shaders/WorkingDirectory/13220/).
+[2019.04.16-12.31.24:774][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Dankeater Memedir/AppData/Local/Temp/UnrealShaderWorkingDir/ACAF1B6C4FDB8208D623D384362747D0/'.
+[2019.04.16-12.31.24:775][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.04.16-12.31.24:775][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.04.16-12.31.24:775][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.04.16-12.31.25:231][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.04.16-12.31.25:276][  0]LogDerivedDataCache: Loaded boot cache 0.04s 71MB C:/Users/Dankeater Memedir/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.04.16-12.31.25:276][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Dankeater Memedir/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.04.16-12.31.25:276][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Games/Repository/IntermissionProject/MobileProject/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.04.16-12.31.25:276][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.04.16-12.31.25:276][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Games/Repository/IntermissionProject/MobileProject/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.04.16-12.31.25:276][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.04.16-12.31.25:289][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.04.16-12.31.25:289][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.04.16-12.31.25:289][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.04.16-12.31.25:301][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Dankeater Memedir/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.04.16-12.31.25:301][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.04.16-12.31.25:301][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.04.16-12.31.25:319][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.04.16-12.31.25:321][  0]LogSlate: Using FreeType 2.6.0
+[2019.04.16-12.31.25:321][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.04.16-12.31.25:397][  0]LogAssetRegistry: FAssetRegistry took 0.0317 seconds to start up
+[2019.04.16-12.31.25:648][  0]LogInit: Selected Device Profile: [Windows]
+[2019.04.16-12.31.25:701][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.04.16-12.31.25:703][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.04.16-12.31.25:703][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.04.16-12.31.25:703][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.04.16-12.31.25:703][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.04.16-12.31.25:783][  0]LogNetVersion: MobileProject 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 2592796191)
+[2019.04.16-12.31.26:197][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.074675 seconds
+[2019.04.16-12.31.26:201][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2019.04.16-12.31.26:201][  0]LogUObjectAllocator: 6914664 out of 0 bytes used by permanent object pool.
+[2019.04.16-12.31.26:201][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.04.16-12.31.26:895][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.04.16-12.31.26:908][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.04.16-12.31.27:478][  0]SourceControl: Source control is disabled
+[2019.04.16-12.31.27:478][  0]SourceControl: Source control is disabled
+[2019.04.16-12.31.27:480][  0]SourceControl: Source control is disabled
+[2019.04.16-12.31.27:480][  0]SourceControl: Source control is disabled
+[2019.04.16-12.31.27:627][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.04.16-12.31.27:684][  0]LogOcInput: OculusInput pre-init called
+[2019.04.16-12.31.27:804][  0]LogEngine: Initializing Engine...
+[2019.04.16-12.31.27:805][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.04.16-12.31.27:806][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.04.16-12.31.27:806][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.04.16-12.31.27:806][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.04.16-12.31.27:806][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.04.16-12.31.28:002][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.04.16-12.31.28:010][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.04.16-12.31.28:021][  0]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.16-12.31.28:064][  0]LogInit: FAudioDevice initialized.
+[2019.04.16-12.31.28:064][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.04.16-12.31.28:138][  0]LogDerivedDataCache: Saved boot cache 0.07s 71MB C:/Users/Dankeater Memedir/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.04.16-12.31.28:149][  0]LogInit: Texture streaming: Enabled
+[2019.04.16-12.31.28:160][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.04.16-12.31.28:171][  0]LogInit: Transaction tracking system initialized
+[2019.04.16-12.31.28:184][  0]BlueprintLog: New page: Editor Load
+[2019.04.16-12.31.28:228][  0]LocalizationService: Localization service is disabled
+[2019.04.16-12.31.28:608][  0]LogFileCache: Scanning file cache for directory 'E:/Games/Repository/IntermissionProject/MobileProject/Content/' took 0.01s
+[2019.04.16-12.31.28:608][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.04.16-12.31.28:608][  0]LogCook: Display: Mobile HDR setting 0
+[2019.04.16-12.31.28:608][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.04.16-12.31.28:608][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.04.16-12.31.28:608][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.04.16-12.31.28:608][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.04.16-12.31.28:608][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.04.16-12.31.28:703][  0]SourceControl: Source control is disabled
+[2019.04.16-12.31.28:703][  0]Cmd: MAP LOAD FILE="../../../../../../Games/Repository/IntermissionProject/MobileProject/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.04.16-12.31.28:703][  0]LightingResults: New page: Lighting Build
+[2019.04.16-12.31.28:704][  0]MapCheck: New page: Map Check
+[2019.04.16-12.31.28:704][  0]LightingResults: New page: Lighting Build
+[2019.04.16-12.31.28:997][  0]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2019.04.16-12.31.29:004][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.04.16-12.31.29:027][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.04.16-12.31.29:027][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.088ms to complete.
+[2019.04.16-12.31.29:027][  0]LogFileHelpers: Loading map 'SideScrollerExampleMap' took 0.324
+[2019.04.16-12.31.29:119][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.16-12.31.29:126][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.16-12.31.29:133][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.16-12.31.29:140][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.16-12.31.29:144][  0]LogCollectionManager: Loaded 0 collections in 0.000766 seconds
+[2019.04.16-12.31.29:158][  0]LogFileCache: Scanning file cache for directory 'E:/Games/Repository/IntermissionProject/MobileProject/Saved/Collections/' took 0.01s
+[2019.04.16-12.31.29:158][  0]LogFileCache: Scanning file cache for directory 'E:/Games/Repository/IntermissionProject/MobileProject/Content/Developers/DankeaterMemedir/Collections/' took 0.00s
+[2019.04.16-12.31.29:158][  0]LogFileCache: Scanning file cache for directory 'E:/Games/Repository/IntermissionProject/MobileProject/Content/Collections/' took 0.00s
+[2019.04.16-12.31.29:158][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.04.16-12.31.29:165][  0]LogContentBrowser: Native class hierarchy populated in 0.0073 seconds. Added 2651 classes and 620 folders.
+[2019.04.16-12.31.29:171][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.04.16-12.31.29:172][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.16-12.31.29:172][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.16-12.31.29:173][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.16-12.31.29:173][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.16-12.31.29:173][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.16-12.31.29:174][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.16-12.31.29:174][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.16-12.31.29:175][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.16-12.31.29:175][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.16-12.31.29:175][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.16-12.31.29:176][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.16-12.31.29:176][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.16-12.31.29:177][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.16-12.31.29:177][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.16-12.31.29:178][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.16-12.31.29:178][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.16-12.31.29:179][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.16-12.31.29:179][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.16-12.31.29:180][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.16-12.31.29:180][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.16-12.31.29:181][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.16-12.31.29:181][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.16-12.31.29:182][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.16-12.31.29:183][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.16-12.31.29:183][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.16-12.31.29:184][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.16-12.31.29:211][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.04.16-12.31.29:215][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.04.16-12.31.29:268][  0]LogSlate: Took 0.000142 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.04.16-12.31.29:269][  0]LogSlate: Took 0.000154 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.04.16-12.31.29:274][  0]LogSlate: Took 0.000215 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.04.16-12.31.29:344][  0]LogRenderer: Reallocating scene render targets to support 1128x536 Format 10 NumSamples 1 (Frame:1).
+[2019.04.16-12.31.29:461][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.04.16-12.31.29:461][  0]LogLoad: (Engine Initialization) Total time: 7.64 seconds
+[2019.04.16-12.31.29:461][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.04.16-12.31.29:479][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.04.16-12.31.29:543][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.04.16-12.31.29:576][  0]LogSlate: Took 0.000144 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.04.16-12.31.29:640][  1]LogAssetRegistry: Asset discovery search completed in 4.2666 seconds
+[2019.04.16-12.31.29:642][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.04.16-12.31.29:642][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000037 seconds (updated 0 objects)
+[2019.04.16-12.31.30:494][ 52]LogSlate: Took 0.000155 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.04.16-12.31.34:361][284]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.16-12.31.34:525][292]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/SideScrollerBP/Blueprints/Custom_BPs/Spawner_BP.Spawner_BP
+[2019.04.16-12.31.34:904][292]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 117 classes and 0 folders.
+[2019.04.16-12.31.35:543][292]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/SideScrollerBP/Blueprints/Custom_BPs/Wall_BP.Wall_BP
+[2019.04.16-12.31.35:789][292]LogSlate: Took 0.000152 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.04.16-12.31.35:838][293]LogSlate: Took 0.000152 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.04.16-12.32.10:841][391]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.16-12.32.10:957][398]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.16-12.32.10:972][398]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.04.16-12.32.10:972][398]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.16-12.32.10:973][398]PIE: New page: PIE session: SideScrollerExampleMap (Apr 16, 2019, 4:32:10 PM)
+[2019.04.16-12.32.10:985][398]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2019.04.16-12.32.11:001][398]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016292s)
+[2019.04.16-12.32.11:002][398]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2019.04.16-12.32.11:002][398]LogPlayLevel: PIE: World Init took: (0.000887s)
+[2019.04.16-12.32.11:002][398]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.017418s)
+[2019.04.16-12.32.11:037][398]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.16-12.32.11:075][398]LogInit: FAudioDevice initialized.
+[2019.04.16-12.32.11:123][398]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2019.04.16-12.32.11:125][398]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 60) at 2019.04.16-14.32.11
+[2019.04.16-12.32.11:125][398]LogWorld: Bringing up level for play took: 0.000905
+[2019.04.16-12.32.11:140][398]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2019.04.16-12.32.11:141][398]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap -0.772
+[2019.04.16-12.32.11:141][398]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.04.16-12.32.11:176][399]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.11:177][399]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.11:193][400]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.11:194][400]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.11:195][400]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.11:195][400]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.11:408][413]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.11:409][413]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.11:409][413]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.11:409][413]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.11:409][413]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.11:410][413]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.11:410][413]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.11:410][413]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.11:625][426]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.11:626][426]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.11:626][426]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.11:626][426]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.11:627][426]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.11:627][426]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.11:628][426]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.11:628][426]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.11:628][426]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.11:629][426]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.11:629][426]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.11:629][426]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.11:630][426]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.11:630][426]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.11:630][426]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.11:631][426]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.11:841][439]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.11:843][439]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.11:843][439]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.11:844][439]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.11:844][439]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.11:844][439]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.11:844][439]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.11:845][439]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.11:845][439]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.11:845][439]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.11:846][439]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.11:846][439]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.11:846][439]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.11:847][439]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.11:847][439]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.11:847][439]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.11:848][439]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.11:848][439]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.11:848][439]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.11:849][439]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.11:849][439]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.11:849][439]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.11:850][439]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.11:850][439]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.11:850][439]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.11:851][439]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.11:851][439]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.11:852][439]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.11:852][439]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.11:852][439]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.11:853][439]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.11:853][439]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:062][452]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:062][452]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:062][452]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:063][452]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:063][452]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:063][452]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:064][452]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:064][452]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:064][452]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:065][452]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:065][452]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:065][452]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:066][452]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:066][452]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:067][452]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:067][452]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:067][452]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:068][452]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:068][452]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:068][452]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:069][452]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:069][452]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:069][452]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:070][452]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:070][452]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:071][452]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:071][452]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:071][452]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:072][452]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:072][452]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:073][452]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:073][452]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:073][452]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:074][452]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:074][452]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:075][452]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:075][452]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:076][452]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:076][452]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:076][452]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:077][452]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:077][452]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:078][452]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:078][452]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:079][452]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:079][452]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:080][452]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:080][452]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:081][452]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:081][452]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:082][452]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:082][452]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:083][452]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:083][452]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:084][452]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:084][452]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:085][452]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:085][452]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:086][452]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:086][452]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:087][452]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:087][452]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:088][452]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:088][452]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:286][464]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:286][464]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:286][464]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:287][464]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:287][464]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:287][464]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:288][464]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:288][464]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:289][464]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:289][464]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:289][464]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:290][464]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:290][464]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:290][464]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:291][464]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:291][464]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:291][464]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:292][464]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:293][464]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:293][464]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:294][464]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:294][464]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:294][464]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:295][464]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:295][464]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:296][464]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:296][464]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:297][464]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:297][464]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:298][464]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:298][464]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:298][464]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:299][464]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:299][464]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:300][464]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:300][464]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:301][464]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:301][464]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:302][464]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:302][464]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:303][464]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:303][464]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:304][464]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:304][464]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:305][464]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:305][464]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:306][464]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:306][464]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:307][464]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:307][464]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:308][464]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:308][464]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:309][464]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:309][464]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:310][464]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:310][464]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:311][464]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:311][464]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:312][464]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:312][464]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:313][464]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:314][464]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:314][464]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:315][464]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:315][464]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:316][464]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:317][464]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:318][464]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:318][464]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:319][464]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:320][464]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:320][464]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:321][464]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:322][464]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:322][464]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:323][464]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:324][464]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:324][464]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:325][464]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:326][464]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:327][464]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:327][464]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:328][464]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:329][464]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:330][464]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:330][464]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:331][464]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:332][464]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:333][464]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:334][464]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:334][464]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:335][464]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:336][464]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:337][464]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:338][464]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:339][464]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:339][464]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:340][464]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:341][464]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:343][464]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:345][464]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:346][464]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:347][464]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:348][464]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:349][464]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:350][464]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:351][464]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:352][464]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:352][464]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:353][464]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:355][464]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:356][464]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:357][464]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:358][464]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:359][464]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:360][464]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:361][464]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:362][464]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:364][464]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:365][464]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:366][464]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:367][464]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:368][464]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:369][464]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:371][464]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:372][464]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:373][464]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:374][464]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:533][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:534][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:535][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:536][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:536][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:536][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:537][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:537][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:538][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:538][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:539][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:539][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:540][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:540][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:541][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:541][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:542][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:542][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:543][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:543][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:544][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:544][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:545][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:545][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:546][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:546][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:547][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:547][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:548][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:548][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:549][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:549][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:550][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:550][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:551][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:551][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:552][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:552][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:553][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:553][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:554][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:554][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:555][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:556][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:556][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:557][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:557][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:558][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:558][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:559][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:559][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:560][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:561][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:561][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:562][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:562][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:563][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:564][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:564][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:565][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:566][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:566][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:567][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:567][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:568][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:569][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:569][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:570][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:571][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:572][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:572][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:573][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:574][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:574][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:575][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:576][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:577][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:577][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:578][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:579][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:580][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:580][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:581][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:582][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:583][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:584][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:585][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:586][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:586][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:587][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:588][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:589][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:590][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:591][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:592][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:592][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:594][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:595][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:596][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:598][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:600][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:601][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:602][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:603][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:604][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:605][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:606][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:607][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:608][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:609][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:610][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:611][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:613][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:614][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:615][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:616][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:618][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:619][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:620][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:621][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:623][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:624][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:625][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:627][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:628][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:629][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:631][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:632][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:634][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:635][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:637][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:639][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:640][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:642][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:643][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:645][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:647][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:648][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:650][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:651][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:653][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:654][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:656][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:658][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:662][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:664][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:666][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:668][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:669][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:671][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:673][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:675][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:677][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:679][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:681][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:683][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:684][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:686][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:688][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:690][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:692][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:694][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:696][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:698][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:700][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:702][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:705][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:707][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:709][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:711][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:713][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:716][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:718][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:720][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:722][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:725][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:727][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:729][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:732][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:734][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:736][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:739][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:741][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:744][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:746][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:749][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:751][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:754][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:756][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:759][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:761][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:764][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:767][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:769][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:772][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:775][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:778][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:781][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:784][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:787][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:790][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:792][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:796][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:798][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:801][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:804][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:813][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:816][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:819][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:822][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:825][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:828][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:831][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:834][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:837][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:841][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:844][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:847][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:851][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:854][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:857][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:861][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:864][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:867][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:871][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:874][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:878][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:881][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:885][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:888][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:892][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:895][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:899][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:902][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:906][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:910][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:913][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:916][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:920][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:924][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:928][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:932][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:936][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:940][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:943][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:947][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:951][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:955][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:959][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:963][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:967][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:971][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:975][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:980][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:984][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.12:988][468]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.13:200][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.13:205][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.13:212][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.13:218][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.13:223][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.13:229][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.13:235][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.13:240][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.13:246][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.13:252][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.13:258][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.13:263][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.13:269][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.13:275][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.13:281][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.13:286][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.13:292][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.13:297][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.13:304][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.13:309][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.13:315][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.13:321][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.13:328][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.13:333][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.13:340][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.13:346][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.13:352][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.13:358][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.13:364][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.13:370][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.13:377][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.13:383][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.13:389][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.13:395][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.13:402][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.13:408][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.13:414][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.13:420][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.13:427][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.13:433][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.13:439][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.13:446][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.13:452][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.13:459][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.13:465][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.13:471][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.13:478][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.13:484][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.13:491][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.13:498][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.13:504][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.13:511][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.13:518][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.13:524][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.13:531][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.13:538][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.13:545][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.13:551][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.13:560][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.13:567][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.13:574][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.13:581][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.13:588][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.13:595][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.13:602][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.13:609][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.13:616][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.13:623][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.13:631][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.13:648][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.13:655][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.13:662][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.13:670][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.13:677][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.13:684][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.13:691][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.13:699][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.13:706][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.13:714][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.13:721][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.13:729][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.13:736][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.13:744][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.13:751][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.13:759][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.13:766][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.13:774][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.13:781][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.13:789][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.13:797][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.13:803][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.13:812][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.13:819][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.13:826][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.13:834][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.13:842][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.13:850][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.13:858][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.13:866][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.13:874][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.13:882][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.13:890][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.13:898][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.13:905][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.13:914][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.13:922][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.13:930][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.13:938][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.13:946][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.13:954][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.13:963][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.13:970][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.13:979][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.13:987][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.13:995][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.14:004][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.14:012][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.14:020][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.14:029][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.14:037][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.14:046][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.14:054][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.14:063][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.14:071][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.14:080][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.14:088][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.14:097][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.14:106][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.14:115][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.14:124][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.14:133][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.14:141][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.14:151][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.14:159][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.14:169][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.14:177][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.14:186][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.14:195][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.14:205][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.14:214][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.14:223][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.14:232][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.14:241][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.14:250][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.14:259][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.14:268][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.14:278][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.14:287][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.14:296][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.14:305][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.14:314][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.14:323][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.14:333][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.14:342][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.14:351][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.14:361][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.14:370][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.14:379][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.14:389][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.14:398][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.14:407][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.14:416][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.14:426][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.14:435][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.14:445][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.14:454][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.14:464][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.14:473][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.14:483][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.14:493][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.14:503][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.14:512][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.14:522][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.14:532][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.14:542][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.14:551][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.14:561][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.14:570][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.14:581][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.14:590][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.14:600][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.14:610][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.14:620][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.14:630][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.14:640][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.14:650][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.14:661][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.14:671][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.14:681][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.14:691][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.14:702][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.14:712][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.14:722][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.14:732][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.14:743][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.14:753][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.14:764][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.14:774][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.14:785][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.14:795][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.14:806][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.14:817][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.14:828][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.14:838][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.14:849][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.14:860][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.14:872][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.14:883][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.14:894][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.14:905][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.14:917][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.14:927][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.14:938][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.14:949][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.14:961][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.14:971][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.14:983][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.14:994][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.15:006][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.15:017][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.15:029][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.15:040][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.15:052][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.15:063][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.15:075][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.15:086][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.15:098][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.15:109][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.15:121][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.15:133][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.15:145][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.15:157][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.15:169][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.15:180][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.15:192][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.15:204][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.15:215][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.15:227][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.15:239][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.15:251][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.15:263][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.15:275][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.15:287][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.15:299][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.15:311][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.15:323][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.15:335][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.15:347][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.15:359][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.15:371][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.15:384][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.15:396][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.15:408][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.15:420][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.15:433][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.15:445][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.15:458][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.15:470][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.15:483][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.15:496][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.15:509][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.15:521][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.15:533][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.15:546][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.15:559][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.15:571][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.15:584][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.15:597][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.15:610][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.15:623][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.15:636][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.15:648][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.15:662][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.15:675][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.15:688][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.15:701][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.15:714][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.15:727][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.15:741][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.15:754][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.15:767][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.15:780][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.15:794][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.15:807][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.15:821][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.15:834][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.15:848][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.15:861][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.15:876][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.15:889][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.15:903][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.15:916][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.15:930][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.15:943][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.15:957][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.15:971][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.15:985][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.15:998][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.16:013][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.16:026][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.16:041][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.16:055][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.16:070][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.16:083][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.16:115][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.16:129][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.16:148][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.16:162][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.16:177][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.16:190][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.16:205][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.16:219][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.16:234][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.16:248][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.16:263][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.16:277][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.16:291][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.16:306][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.16:321][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.16:335][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.16:350][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.16:364][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.16:379][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.16:394][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.16:409][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.16:423][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.16:439][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.16:453][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.16:469][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.16:483][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.16:499][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.16:513][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.16:529][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.16:544][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.16:559][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.16:574][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.16:590][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.16:604][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.16:620][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.16:635][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.16:651][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.16:667][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.16:681][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.16:696][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.16:713][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.16:728][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.16:744][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.16:759][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.16:776][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.16:791][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.16:808][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.16:823][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.16:840][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.16:855][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.16:872][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.16:888][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.16:905][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.16:925][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.16:943][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.16:958][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.16:974][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.16:990][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.17:007][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.17:022][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.17:039][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.17:055][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.17:072][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.17:088][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.17:106][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.17:121][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.17:138][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.17:154][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.17:172][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.17:190][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.17:209][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.17:227][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.17:247][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.17:263][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.17:280][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.17:296][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.17:314][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.17:329][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.17:347][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.17:364][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.17:382][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.17:399][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.17:417][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.17:434][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.17:451][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.17:468][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.17:486][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.17:503][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.17:522][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.17:539][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.17:558][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.17:579][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.17:599][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.17:616][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.17:634][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.17:651][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.17:669][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.17:686][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.17:705][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.17:722][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.17:741][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.17:759][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.17:778][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.17:796][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.17:815][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.17:833][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.17:852][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.17:870][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.17:890][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.17:908][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.17:928][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.17:946][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.17:965][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.17:984][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.18:003][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.18:021][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.18:040][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.18:058][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.18:078][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.18:096][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.18:116][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.18:135][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.18:155][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.18:173][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.18:193][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.18:212][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.18:232][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.18:251][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.18:271][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.18:290][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.18:310][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.18:329][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.18:350][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.18:369][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.18:389][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.18:407][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.18:428][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.18:448][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.18:468][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.18:488][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.18:508][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.18:528][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.18:549][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.18:569][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.18:589][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.18:609][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.18:630][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.18:649][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.18:670][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.18:690][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.18:711][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.18:732][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.18:753][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.18:773][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.18:794][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.18:814][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.18:836][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.18:856][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.18:877][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.18:898][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.18:919][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.18:940][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.18:962][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.18:982][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.19:004][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.19:024][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.19:047][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.19:067][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.19:089][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.19:110][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.19:133][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.19:154][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.19:176][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.19:197][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.19:219][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.19:240][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.19:263][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.19:284][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.19:306][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.19:327][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.19:350][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.19:371][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.19:394][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.19:416][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.19:439][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.19:460][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.19:483][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.19:504][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.19:527][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.19:549][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.19:572][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.19:593][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.19:616][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.19:638][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.19:661][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.19:683][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.19:706][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.19:728][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.19:751][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.19:774][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.19:797][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.19:819][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.19:843][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.19:865][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.19:889][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.19:911][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.19:934][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.19:954][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.19:975][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.19:998][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.20:022][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.20:045][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.20:070][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.20:093][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.20:117][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.20:141][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.20:165][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.20:188][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.20:212][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.20:235][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.20:259][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.20:282][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.20:306][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.20:329][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.20:353][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.20:376][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.20:400][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.20:423][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.20:448][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.20:471][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.20:496][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.20:519][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.20:544][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.20:567][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.20:592][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.20:615][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.20:640][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.20:663][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.20:688][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.20:712][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.20:737][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.20:760][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.20:786][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.20:808][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.20:834][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.20:858][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.20:884][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.20:908][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.20:935][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.20:959][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.20:986][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.21:010][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.21:037][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.21:061][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.21:087][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.21:112][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.21:139][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.21:164][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.21:191][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.21:217][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.21:243][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.21:269][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.21:296][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.21:320][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.21:348][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.21:373][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.21:400][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.21:425][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.21:452][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.21:477][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.21:505][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.21:530][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.21:557][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.21:583][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.21:611][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.21:637][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.21:664][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.21:689][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.21:717][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.21:744][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.21:776][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.21:806][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.21:836][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.21:862][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.21:890][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.21:917][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.21:945][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.21:971][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.21:999][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.22:026][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.22:054][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.22:081][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.22:110][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.22:136][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.22:165][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.22:191][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.22:219][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.22:244][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.22:272][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.22:298][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.22:326][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.22:352][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.22:381][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.22:406][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.22:435][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.22:462][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.22:490][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.22:517][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.22:545][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.22:571][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.22:601][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.22:628][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.22:656][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.22:683][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.22:712][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.22:739][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.22:768][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.22:795][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.22:824][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.22:852][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.22:882][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.22:910][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.22:940][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.22:997][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.23:026][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.23:053][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.23:083][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.23:112][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.23:142][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.23:174][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.23:208][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.23:237][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.23:268][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.23:297][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.23:328][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.23:357][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.23:388][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.23:417][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.23:448][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.23:477][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.23:509][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.23:538][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.23:569][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.23:598][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.23:640][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.23:669][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.23:701][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.23:731][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.23:763][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.23:793][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.23:824][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.23:854][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.23:886][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.23:916][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.23:949][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.23:979][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.24:011][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.24:041][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.24:074][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.24:104][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.24:137][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.24:167][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.24:199][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.24:229][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.24:262][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.24:293][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.24:326][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.24:357][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.24:390][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.24:420][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.24:454][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.24:485][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.24:518][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.24:549][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.24:581][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.24:612][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.24:646][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.24:677][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.24:711][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.24:742][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.24:776][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.24:808][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.24:842][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.24:873][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.24:906][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.24:936][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.24:970][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.25:001][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.25:035][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.25:066][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.25:100][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.25:131][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.25:165][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.25:195][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.25:230][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.25:261][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.25:296][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.25:327][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.25:360][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.25:392][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.25:427][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.25:459][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.25:494][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.25:526][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.25:560][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.25:592][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.25:627][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.25:659][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.25:693][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.25:727][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.25:761][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.25:793][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.25:829][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.25:861][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.25:898][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.25:931][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.25:968][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.26:001][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.26:038][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.26:072][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.26:111][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.26:150][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.26:196][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.26:232][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.26:272][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.26:305][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.26:342][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.26:376][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.26:413][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.26:446][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.26:483][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.26:516][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.26:553][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.26:586][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.26:622][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.26:656][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.26:693][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.26:728][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.26:766][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.26:799][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.26:839][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.26:873][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.26:911][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.26:947][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.26:985][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.27:021][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.27:059][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.27:093][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.27:130][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.27:163][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.27:201][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.27:236][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.27:273][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.27:307][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.27:345][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.27:380][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.27:417][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.27:452][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.27:498][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.27:537][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.27:578][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.27:614][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.27:659][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.27:707][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.27:773][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.27:823][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.27:873][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.27:922][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.27:978][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.28:022][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.28:066][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.28:107][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.28:153][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.28:192][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.28:234][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.28:272][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.28:319][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.28:358][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.28:401][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.28:439][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.28:484][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.28:525][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.28:570][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.28:611][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.28:654][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.28:696][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.28:741][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.28:781][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.28:824][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.28:862][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.28:904][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.28:942][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.28:984][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.29:020][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.29:061][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.29:098][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.29:139][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.29:177][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.29:220][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.29:259][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.29:300][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.29:338][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.29:379][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.29:416][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.29:456][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.29:494][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.29:537][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.29:576][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.29:617][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.29:655][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.29:697][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.29:736][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.29:780][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.29:821][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.29:867][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.29:904][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.29:946][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.29:985][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.30:028][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.30:068][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.30:110][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.30:148][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.30:191][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.30:230][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.30:272][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.30:311][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.30:355][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.30:394][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.30:438][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.30:480][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.30:526][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.30:566][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.30:612][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.30:652][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.30:698][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.30:740][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.30:786][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.30:827][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.30:873][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.30:913][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.30:961][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.31:003][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.31:048][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.31:088][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.31:132][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.31:171][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.31:216][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.31:256][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.31:300][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.31:341][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.31:385][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.31:425][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.31:471][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.31:514][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
+[2019.04.16-12.32.31:562][469]LogBlueprintUserMessages: [Spawner_BP_2] Hello
